@@ -1,0 +1,181 @@
+## First 1 pages!
+{
+   "title": "Hackers post fake stories on real news sites 'to discredit Nato'",
+   "link": "https://www.bbc.co.uk/news/technology-53594440",
+   "score": 117,
+   "writer": "elorant"
+},
+{
+   "title": "Australia to make Facebook, Google pay for news in world first",
+   "link": "https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP",
+   "score": 341,
+   "writer": "nreece"
+},
+{
+   "title": "Monitoring demystified: A guide for logging, tracing, metrics",
+   "link": "https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics",
+   "score": 272,
+   "writer": "malechimp"
+},
+{
+   "title": "Why forgiving someone else is about you",
+   "link": "https://www.npr.org/2020/07/28/896245305/why-forgiving-someone-else-is-really-about-you",
+   "score": 91,
+   "writer": "pseudolus"
+},
+{
+   "title": "Nvidia is reportedly in \u2018advanced talks\u2019 to buy ARM for more than $32B",
+   "link": "https://www.theverge.com/circuitbreaker/2020/7/31/21349332/nvidia-talks-buy-arm-processor-mobile-deal-32-billion-softbank-purchase-rumor",
+   "score": 59,
+   "writer": "caution"
+},
+{
+   "title": "Google Will Eat Itself (2005)",
+   "link": "https://www.gwei.org/index.php",
+   "score": 73,
+   "writer": "viraptor"
+},
+{
+   "title": "A College Degree Is No Guarantee of a Good Life",
+   "link": "https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/",
+   "score": 80,
+   "writer": "pseudolus"
+},
+{
+   "title": "Facebook says Apple\u2019s iOS 14 changes could hurt its ad targeting",
+   "link": "https://www.cnbc.com/2020/07/30/facebook-says-apples-ios-14-changes-could-hurt-its-ad-targeting.html",
+   "score": 84,
+   "writer": "nojito"
+},
+{
+   "title": "Google Earth Timelapse",
+   "link": "https://earthengine.google.com/timelapse/",
+   "score": 341,
+   "writer": "sabalaba"
+},
+{
+   "title": "YouTube: Community contributions will be discontinued across all channels",
+   "link": "https://support.google.com/youtube/answer/6052538",
+   "score": 286,
+   "writer": "zhamisen"
+},
+{
+   "title": "To Understand Jio, You Need to Understand Reliance",
+   "link": "https://diff.substack.com/p/to-understand-jio-you-need-to-understand",
+   "score": 3,
+   "writer": "simonpure"
+},
+{
+   "title": "Why Are Plants Green? To Reduce the Noise in Photosynthesis",
+   "link": "https://www.quantamagazine.org/why-are-plants-green-to-reduce-the-noise-in-photosynthesis-20200730/",
+   "score": 190,
+   "writer": "theafh"
+},
+{
+   "title": "ZSA Moonlander: A next-generation ergonomic keyboard",
+   "link": "https://zsa.io/moonlander",
+   "score": 72,
+   "writer": "olivernn"
+},
+{
+   "title": "PlayCanvas open sources glTF viewer technology",
+   "link": "https://blog.playcanvas.com/playcanvas-launches-gltf-2-0-viewer-tool/",
+   "score": 10,
+   "writer": "ovenchips"
+},
+{
+   "title": "Show HN: A bookmarking tool designed to help synthesize your web research",
+   "link": "https://klobie.com",
+   "score": 189,
+   "writer": "te_ch"
+},
+{
+   "title": "Eliminating cold starts with Cloudflare Workers",
+   "link": "https://blog.cloudflare.com/eliminating-cold-starts-with-cloudflare-workers/",
+   "score": 34,
+   "writer": "kiyanwang"
+},
+{
+   "title": "Reverse Engineering the PLA Chip in the Commodore 128",
+   "link": "https://c128.se/posts/silicon-adventures/",
+   "score": 148,
+   "writer": "segfaultbuserr"
+},
+{
+   "title": "Stopping Pollution with Pine Needles",
+   "link": "https://www.economist.com/science-and-technology/2020/07/18/stopping-pollution-with-pine-needles",
+   "score": 14,
+   "writer": "prostoalex"
+},
+{
+   "title": "Google removes all Danish music from YouTube",
+   "link": "https://www.koda.dk/about-us/press-release-google-removes-all-danish-music-from-youtube",
+   "score": 98,
+   "writer": "erk__"
+},
+{
+   "title": "Chronic mania and persistent euphoric states",
+   "link": "https://srconstantin.github.io/2020/07/29/chronic-mania.html",
+   "score": 104,
+   "writer": "apsec112"
+},
+{
+   "title": "Comments on optimizations around string concatenation",
+   "link": "https://gist.github.com/llllllllll/7ad5905275233f1fb3868f4a67793616",
+   "score": 31,
+   "writer": "jbredeche"
+},
+{
+   "title": "Nvidia in Advanced Talks to Buy SoftBank\u2019s Chip Company Arm",
+   "link": "https://www.bloomberg.com/news/articles/2020-07-31/nvidia-said-in-advanced-talks-to-buy-softbank-s-chip-company-arm",
+   "score": 12,
+   "writer": "uptown"
+},
+{
+   "title": "YouTube to end community captions feature and deaf creators aren\u2019t happy",
+   "link": "https://www.theverge.com/2020/7/31/21349401/youtube-community-captions-deaf-creators-accessibility-google",
+   "score": 5,
+   "writer": "vermontdevil"
+},
+{
+   "title": "An update on our security incident",
+   "link": "https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html",
+   "score": 204,
+   "writer": "pseudolus"
+},
+{
+   "title": "What4: A library to help build verification and program analysis tools",
+   "link": "https://galois.com/blog/2020/07/what4-new-library-to-help-devs-build-verification-program-tools/",
+   "score": 50,
+   "writer": "lelf"
+},
+{
+   "title": "Launch HN: BaseDash (YC S20) \u2013 Edit your database with the ease of a spreadsheet",
+   "link": "item?id=23999124",
+   "score": 158,
+   "writer": "maxmusing"
+},
+{
+   "title": "DNSSEC explained: Why you might want to implement it on your domain",
+   "link": "https://www.csoonline.com/article/3569277/dnssec-explained-why-you-might-want-to-implement-it-on-your-domain.html#tk.rss_all",
+   "score": 12,
+   "writer": "c0r0n3r"
+},
+{
+   "title": "The Pandemic-Era Appeal of Labyrinths",
+   "link": "https://www.bloomberg.com/news/articles/2020-07-29/the-pandemic-era-appeal-of-labyrinths",
+   "score": 35,
+   "writer": "polm23"
+},
+{
+   "title": "Philosophers on GPT-3",
+   "link": "http://dailynous.com/2020/07/30/philosophers-gpt-3/",
+   "score": 254,
+   "writer": "freediver"
+},
+{
+   "title": "Balancing AMD\u2019s Future on the Edge of a Silicon Wafer",
+   "link": "https://www.nextplatform.com/2020/07/29/balancing-amds-future-on-the-edge-of-a-silicon-wafer/",
+   "score": 34,
+   "writer": "rbanffy"
+},

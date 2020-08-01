@@ -1,0 +1,40 @@
+{
+      "by": "nreece",
+      "id": 24006150,
+      "score": 362,
+      "title": "Australia to make Facebook, Google pay for news in world first",
+      "type": "story",
+      "url": "https://www.reuters.com/article/us-australia-media-regulator/australia-to-make-facebook-google-pay-for-news-in-world-first-idUSKCN24V3UP"
+},
+{
+      "by": "caution",
+      "id": 24009177,
+      "score": 114,
+      "title": "Nvidia is reportedly in \u2018advanced talks\u2019 to buy ARM for more than $32B",
+      "type": "story",
+      "url": "https://www.theverge.com/circuitbreaker/2020/7/31/21349332/nvidia-talks-buy-arm-processor-mobile-deal-32-billion-softbank-purchase-rumor"
+},
+{
+      "by": "malechimp",
+      "id": 24006697,
+      "score": 280,
+      "title": "Monitoring demystified: A guide for logging, tracing, metrics",
+      "type": "story",
+      "url": "https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics"
+},
+{
+      "by": "pseudolus",
+      "id": 23996505,
+      "score": 109,
+      "title": "Why forgiving someone else is about you",
+      "type": "story",
+      "url": "https://www.npr.org/2020/07/28/896245305/why-forgiving-someone-else-is-really-about-you"
+},
+{
+      "by": "viraptor",
+      "id": 24008297,
+      "score": 83,
+      "title": "Google Will Eat Itself (2005)",
+      "type": "story",
+      "url": "https://www.gwei.org/index.php"
+},
